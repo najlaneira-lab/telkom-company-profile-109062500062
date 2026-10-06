@@ -2,3 +2,5 @@
 Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git.
 Perubahan ini dibuat dari simulasi Laptop B.
 Simulasi perubahan dari Laptop A.
+Latihan simulasi push ditolak
+
